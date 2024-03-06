@@ -655,4 +655,9 @@ table td {
 	color: #099;
 }
 
+/* I had removed the rss subscribe from the original theme files and made sure
+it wasn't part of the index file however, it's still displaying in github.io */
+.rss-subscribe {
+	opacity: 0;
+}
 /*# sourceMappingURL=main.css.map */
